@@ -12,11 +12,11 @@ Kaggle: [GC(ob)](http://handlebarsjs.com/), [GC(ad)](http://handlebarsjs.com/), 
 ## Datasets
 **GC dataset**
 Class：bubble，plastering thread，black spot，oil， quenched grain
-![示例图片](img/GC.png)
+![示例图片](image/GC.png)
 （a） Innermost layer: tasks components, middle layer: subtasks composition, outermost layer: object categories. GC includes 2 key tasks and 100k images.
 （b） Illustration of diverse data collection and sample images from the GC dataset.
 
 **MsIns dataset**
-![示例图片](img/MsIns.png)
+![示例图片](image/MsIns.png)
 （a）Innermost layer: products components, middle layer: subproducts composition, outermost layer: object categories. MsIns covers 10 key subproducts and 76 representative categories of IDD.
 （b） Sample images from the MsIns.
