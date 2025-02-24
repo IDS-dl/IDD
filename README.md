@@ -11,6 +11,7 @@ Kaggle: [GC(ob)](http://handlebarsjs.com/), [GC(ad)](http://handlebarsjs.com/), 
 
 ## Datasets
 **GC dataset**
+
 Class：bubble，plastering thread，black spot，oil， quenched grain
 ![示例图片](images/GC.png)
 （a） Innermost layer: tasks components, middle layer: subtasks composition, outermost layer: object categories. GC includes 2 key tasks and 100k images.
