@@ -6,7 +6,7 @@ Industrial defect detection aims to locate and identify known defects $\mathrm{(
 
 ## Download Datasets
 
-Kaggle: [GC(ob)](http://handlebarsjs.com/), [GC(ad)](http://handlebarsjs.com/), [MsIns(ob)](http://handlebarsjs.com/), [MsIns(ad)](http://handlebarsjs.com/)
+Kaggle: [GC(ob)](https://drive.google.com/file/d/19KMM8YQasQuuBEun-qaS_wBSc03Npf5R/view?usp=sharing), [GC(ad)](https://drive.google.com/file/d/15EkvLsmj_2PEBsOGCcwlwAbpum6_NHF3/view?usp=sharing), [MsIns(ob)](https://drive.google.com/file/d/1PV-XmHUJh9jNL_tmjEalAklir_o1OL_9/view?usp=sharing), [MsIns(ad)](https://drive.google.com/file/d/1Taz7N8LIjGgQiQ-kbvQ_aJQKGoTuHDtV/view?usp=sharing)
          
 
 ## Datasets
